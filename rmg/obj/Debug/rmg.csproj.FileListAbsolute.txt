@@ -1,0 +1,10 @@
+c:\users\amshegarh\documents\visual studio 2015\Projects\rmg\rmg\bin\Debug\rmg.exe.config
+c:\users\amshegarh\documents\visual studio 2015\Projects\rmg\rmg\bin\Debug\rmg.exe
+c:\users\amshegarh\documents\visual studio 2015\Projects\rmg\rmg\bin\Debug\rmg.pdb
+c:\users\amshegarh\documents\visual studio 2015\Projects\rmg\rmg\obj\Debug\rmg.csprojResolveAssemblyReference.cache
+c:\users\amshegarh\documents\visual studio 2015\Projects\rmg\rmg\obj\Debug\rmg.Properties.Resources.resources
+c:\users\amshegarh\documents\visual studio 2015\Projects\rmg\rmg\obj\Debug\rmg.csproj.GenerateResource.Cache
+c:\users\amshegarh\documents\visual studio 2015\Projects\rmg\rmg\obj\Debug\rmg.exe
+c:\users\amshegarh\documents\visual studio 2015\Projects\rmg\rmg\obj\Debug\rmg.pdb
+c:\users\amshegarh\documents\visual studio 2015\Projects\rmg\rmg\obj\Debug\rmg.Form1.resources
+C:\Users\amshegarh\documents\visual studio 2015\Projects\rmg\rmg\obj\Debug\rmg.Form2.resources
